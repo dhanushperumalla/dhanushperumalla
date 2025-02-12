@@ -4,7 +4,7 @@
 - 🎓 3rd-year B.Tech student at Chalapathi Institute of Technology.
 - 🧠 Passionate about AI/ML, Generative AI, and Agentic AI.
 - 💻 Skilled in **MERN stack** and backend development.
-- 🏆 **Winner** of the *Magnetic AI Hackathon (n8n category)* organized by Ottomator (Cole Medin - YT).
+- 🏆 **Winner** of the *oTTomator Live Agent Studio Hackathon (n8n category)* organized by Ottomator (Cole Medin - YT).
 - ⚡ Fast learner and problem solver.
 
 ---
