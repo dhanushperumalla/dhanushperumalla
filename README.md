@@ -1,7 +1,7 @@
 ### Hi there, I'm Perumalla Venkata Naga Dhanush! 👋
 
 🚀 **About Me:**
-- 🎓 3rd-year B.Tech student at Chalapathi Institute of Technology.
+- 🎓 4th-year B.Tech student at Chalapathi Institute of Technology.
 - 🧠 Passionate about AI/ML, Generative AI, and Agentic AI.
 - 💻 Skilled in **MERN stack** and backend development.
 - 🏆 **Winner** of the *oTTomator Live Agent Studio Hackathon (n8n category)* organized by Ottomator (Cole Medin - YT).
